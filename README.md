@@ -1,2 +1,2 @@
-# NUFORC
-National UFO Reporting Center.
+# NOUFOS
+North Ontario (Canada) UFO Reporting Center.
